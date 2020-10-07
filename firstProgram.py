@@ -27,7 +27,7 @@ if __name__=='__main__':
 # print (s[i].name,s[i].weight,s[i].yob,str(s[i].age()))
 # print(str (s4.age()))
 
-
+print('u')
 
 # import array
 # s1='shivam'
